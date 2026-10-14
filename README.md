@@ -6,7 +6,7 @@
 > and intelligent enough for what's next.
 
 [![Email](https://img.shields.io/badge/Email-vivekkumar872001%40gmail.com-black?style=flat-square&logo=gmail)](mailto:vivekkumar872001@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://www.linkedin.com/in/vivek-kumar-225b431ab/?isSelfProfile=true)](YOUR_LINKEDIN_URL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-F89F1B?style=flat-square&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
 
 ---
